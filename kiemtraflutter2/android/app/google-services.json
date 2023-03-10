@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "514290785735",
+    "project_id": "kiemtra1-b95ec",
+    "storage_bucket": "kiemtra1-b95ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514290785735:android:22058b6c10f12b984ecde2",
+        "android_client_info": {
+          "package_name": "com.example.kiemtraflutter2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514290785735-9k9topbnl0jbkh1nqnarofmot4r8alot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSdfTZo1pKY2ywYv7L9FdfoXTHmHDgOYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514290785735-9k9topbnl0jbkh1nqnarofmot4r8alot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514290785735:android:8db43da38aa513f84ecde2",
+        "android_client_info": {
+          "package_name": "com.uda.dat1.baitap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514290785735-9k9topbnl0jbkh1nqnarofmot4r8alot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSdfTZo1pKY2ywYv7L9FdfoXTHmHDgOYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514290785735-9k9topbnl0jbkh1nqnarofmot4r8alot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
